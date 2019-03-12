@@ -1,0 +1,206 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.order {
+  margin: 50px;
+}
+
+.door {
+  margin-top: 25px;
+}
+
+
+.font {
+  font-family: 'Caesar Dressing', cursive;
+}
+
+hr {
+  color: #353535;
+  width: 70%;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  letter-spacing: 10px;
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  letter-spacing: 10px;
+  color: white;
+}
+
+
+.navMain {
+  background-color: #0D5EAF;
+  height: 145px;
+  width: 100%;
+}
+
+.logoMain {
+  font-size: 3rem;
+}
+
+nav ul {
+  margin: 50px;
+  
+}
+
+nav ul a {
+  font-size: 25px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.footerMain {
+  background-color: #0D5EAF;
+}
+
+.footer-copyright {
+  background-color: #353535;
+}
+
+.p2 {
+  font-size: 2em;
+}
+
+li {
+  margin-right: 10px;
+}
+
+.container {
+  margin-left: 130px;
+}
+
+.homeBtn {
+  font-family: 'Nunito', sans-serif;
+  line-height: 49px;
+  color: #353535;
+  letter-spacing: 6px;
+  margin-top: 50px;
+  margin-left: 90px;
+}
+
+.PT {
+  margin-left: 80px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 90px;
+  width: 300px;
+  height: 90px;
+}
+
+.one {
+  margin-left: 280px;
+}
+
+.two {
+  margin-left: 30px;
+}
+
+.collapsible {
+  width: 100%;
+}
+
+.collapsible-header {
+  padding: 5rem;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.main > .card {
+  flex: 0 1 25%;
+}
+
+.containerCon {
+  background: white;
+  padding: 20px 25px;
+  border: 9px solid #0D5EAF;
+  width: 750px;
+  height: auto;
+  box-sizing: border-box;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+
+.containerCon2 {
+  background: white;
+  padding: 20px 25px;
+  border: 9px solid #0D5EAF;
+  width: 550px;
+  height: auto;
+  box-sizing: border-box;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+
+.col.s6 > .btn {
+   width: 100%;
+}
+.gender-male,.gender-female {
+  display: inline-block;
+}
+.gender-female {
+  margin-left: 35px;
+}
+
+radio:required {
+  border-color: red;
+}
+
+.containerCon {
+  animation: showUp 0.5s cubic-bezier(0.18, 1.3, 1, 1) forwards;
+}
+
+@keyframes showUp {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transoform: scale(1);
+  }
+}
+.rowCon {margin-bottom: 10px;}
+
+.ngl {
+  position: absolute;
+  top: -20px;
+  right: -20px;
+}
+
+.btn-large {
+  background-color: #0D5EAF; 
+  height: 60px;
+  line-height: 54px;
+  font-size: 20px;
+  padding: 0 28px;
+}
+
+.card {
+  /* width: 450px; */
+  margin: 30px;
+}
+
+.ptvideo {
+  padding-top: 4rem;
+}
+
+
+
+
+       
